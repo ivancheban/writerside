@@ -26,4 +26,12 @@
         <description>Created after removal of "Changes" from API Docs</description>
         <accepts>Changes-XML.html</accepts>
     </rule>
+    <rule id="289c05d0">
+        <description>Created after removal of "Create user" from API Docs</description>
+        <accepts>Create-user.html</accepts>
+    </rule>
+    <rule id="49a3f406">
+        <description>Created after removal of "Create list of users with given input array" from API Docs</description>
+        <accepts>Creates-list-of-users-with-given-input-array.html</accepts>
+    </rule>
 </rules>
